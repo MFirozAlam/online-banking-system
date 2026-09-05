@@ -1,0 +1,6 @@
+{
+  "name": "Online Banking System",
+  "description": "A comprehensive online banking portal supporting account creation, account lookup, deposits, withdrawals, and account deletion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
